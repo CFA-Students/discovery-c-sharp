@@ -1,0 +1,150 @@
+{
+  "formattingOptions": {
+    "TabSize": 2,
+    "IndentationSize": 2,
+    //
+    //! crlf vs lf
+    "NewLine": "\n",
+    //
+    //! tabs vs spaces 
+    "UseTabs": false,
+    //
+    //! `Name() {}` vs `Name () {}` 
+    "SpacingAfterMethodDeclarationName": false,
+    //
+    //! `(args) {}` vs `( args ) {}` 
+    "SpaceWithinMethodDeclarationParenthesis": false,
+    //
+    //! `() {}` vs `( ) {}`
+    "SpaceBetweenEmptyMethodDeclarationParentheses": false,
+    //
+    //! `obj.Method();` vs `ob.Method ();`
+    "SpaceAfterMethodCallName": false,
+    //
+    //! `obj.Method(param);` vs `obj.Method( param );`
+    "SpaceWithinMethodCallParentheses": false,
+    //
+    //! `obj.Method();` vs `obj.Method( );`
+    "SpaceBetweenEmptyMethodCallParentheses": false,
+    //
+    //! `if()` vs `if ()`, `else if()` vs `else if ()`
+    "SpaceAfterControlFlowStatementKeyword": true,
+    //
+    //! `(/* code */)` vs `( /* code */)`
+    "SpaceWithinExpressionParentheses": false,
+    //
+    //! `sum = (int) count` vs `sum = ( int ) count`
+    "SpaceWithinCastParentheses": false,
+    //
+    //! `()` vs `( )` for other kind of parentheses
+    "SpaceWithinOtherParentheses": false,
+    //
+    //! `sum = (int)count` vs `sum = (int) count`
+    "SpaceAfterCast": true,
+    //
+    //! test
+    "SpacesIgnoreAroundVariableDeclaration": false,
+    //
+    //! test
+    "SpaceBeforeOpenSquareBracket": false,
+    //
+    //! test
+    "SpaceBetweenEmptySquareBrackets": false,
+    //
+    //! test
+    "SpaceWithinSquareBrackets": false,
+    //
+    //! test
+    "SpaceAfterColonInBaseTypeDeclaration": true,
+    //
+    //! test
+    "SpaceAfterComma": true,
+    //
+    //! test
+    "SpaceAfterDot": false,
+    //
+    //! test
+    "SpaceAfterSemicolonsInForStatement": true,
+    //
+    //! test
+    "SpaceBeforeColonInBaseTypeDeclaration": true,
+    //
+    //! test
+    "SpaceBeforeComma": false,
+    //
+    //! test
+    "SpaceBeforeDot": false,
+    //
+    //! test
+    "SpaceBeforeSemicolonsInForStatement": false,
+    //
+    //! test
+    "SpacingAroundBinaryOperator": "single",
+    //
+    //! test
+    "IndentBraces": false,
+    //
+    //! test
+    "IndentBlock": true,
+    //
+    //! test
+    "IndentSwitchSection": true,
+    //
+    //! test
+    "IndentSwitchCaseSection": true,
+    //
+    //! test
+    "LabelPositioning": "oneLess",
+    //
+    //! test
+    "WrappingPreserveSingleLine": true,
+    //
+    //! test
+    "WrappingKeepStatementsOnSingleLine": true,
+    //
+    //! test
+    "NewLinesForBracesInTypes": false,
+    //
+    //! test
+    "NewLinesForBracesInMethods": false,
+    //
+    //! test
+    "NewLinesForBracesInProperties": false,
+    //
+    //! test
+    "NewLinesForBracesInAccessors": false,
+    //
+    //! test
+    "NewLinesForBracesInAnonymousMethods": false,
+    //
+    //! test
+    "NewLinesForBracesInControlBlocks": false,
+    //
+    //! test
+    "NewLinesForBracesInAnonymousTypes": false,
+    //
+    //! test
+    "NewLinesForBracesInObjectCollectionArrayInitializers": false,
+    //
+    //! test
+    "NewLinesForBracesInLambdaExpressionBody": false,
+    //
+    //! test
+    "NewLineForElse": false,
+    //
+    //! test
+    "NewLineForCatch": false,
+    //
+    //! test
+    "NewLineForFinally": false,
+    //
+    //! test
+    "NewLineForMembersInObjectInit": false,
+    //
+    //! test
+    "NewLineForMembersInAnonymousTypes": false,
+    //
+    //! test
+    "NewLineForClausesInQuery": false
+  }
+}
