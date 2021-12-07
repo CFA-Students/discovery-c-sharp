@@ -5,6 +5,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <!-- <StartupObject>DesignPatterns.AbstractFactory.App</StartupObject> -->
-    <StartupObject>Threads.App</StartupObject>
+    <StartupObject>ContactSaver.App</StartupObject>
   </PropertyGroup>
 </Project>

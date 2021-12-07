@@ -18,12 +18,11 @@ namespace Threads {
 
     public void ThreadLoop() {
       for (var i = 0; i < _count; i++) {
-        Thread.Sleep(500);
         Console.WriteLine($"{i + 1}) I am working");
         if (_callback is not null)
           _callback(i);
+        Thread.Sleep(500);
       }
     }
-
   }
 }
