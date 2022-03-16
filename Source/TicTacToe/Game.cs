@@ -13,8 +13,8 @@ namespace TicTacToe {
       new SlotType[3] { SlotType.Unchecked, SlotType.Unchecked, SlotType.Unchecked },
     };
 
-    public bool HasAWinner { get; }
-    public bool IsDrawMatch { get; }
+    public bool HasAWinner { get => _hasAWinner; }
+    public bool IsDrawMatch { get => _isDrawMatch; }
     public char CurrentPlayer {
       get {
         return (char) _currentPlayer;

@@ -1,9 +1,6 @@
 namespace ContactSaver {
   [Serializable()]
   public class Contact {
-    private string _test;
-    public string Test { get; set; }
-
     string _number;
 
     public string Name;
@@ -12,7 +9,8 @@ namespace ContactSaver {
       set => _verifyNumber(value);
     }
 
-    public Contact() { }
+    // decomment this
+    // public Contact() { }
 
     public Contact(string name, string number) {
       Name = name;

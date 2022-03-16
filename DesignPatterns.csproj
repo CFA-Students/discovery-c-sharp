@@ -5,6 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <!-- <StartupObject>DesignPatterns.AbstractFactory.App</StartupObject> -->
-    <StartupObject>ContactSaver.App</StartupObject>
+    <StartupObject>PocketMonsterIndex.App</StartupObject>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
 </Project>

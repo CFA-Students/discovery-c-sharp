@@ -103,7 +103,7 @@
     "WrappingKeepStatementsOnSingleLine": true,
     //
     //! test
-    "NewLinesForBracesInTypes": false,
+    "NewLinesForBracesInTypes": true,
     //
     //! test
     "NewLinesForBracesInMethods": false,
